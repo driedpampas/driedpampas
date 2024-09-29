@@ -9,7 +9,7 @@
 
 <h2 align="center"> 🌐 Socials: </p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/friedpampas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/driedpamps) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/friedpampas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/driedpampas) 
 
 <h1 align="center">💻 Tech Stack:</p>
   

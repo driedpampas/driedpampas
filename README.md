@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **redesigning my uni's online gradebook cause it's straight outta 2005**
 
-- 📫 How to reach me **driedpampas@proton.me**
+- 📫 Reach me at: [**me@syu.nl.eu.org**](mailto:me@syu.nl.eu.org)
 
 - ⚡ **nonbinary monarchy at your service ✨**
 

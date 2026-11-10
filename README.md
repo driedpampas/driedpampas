@@ -4,7 +4,7 @@
 
 - currently working on: **some bs.**
 
-- reach me at: [**me@syu.nl.eu.org**](mailto:me@syu.nl.eu.org)
+<!-- - reach me at: [**me@syu.nl.eu.org**](mailto:me@syu.nl.eu.org) -->
 
 <h3 align="center">Tech Stack:</p>
   
